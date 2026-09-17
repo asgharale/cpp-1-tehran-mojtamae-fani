@@ -1,0 +1,22 @@
+{
+    "ok":true,
+    "result":
+        {
+            "message_id":7,
+            "from":
+                {
+                    "id":144208741,
+                    "is_bot":true,
+                    "first_name":"",
+                    "last_name":"",
+                    "username":"cppclasstestbot"
+                },
+            "date":1789646420,
+            "chat":
+                {
+                    "id":969231957,
+                    "type":"private"
+                },
+            "text":"salam\n\nSent From hosein"
+        }
+}
