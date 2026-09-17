@@ -1,0 +1,17 @@
+Id - age - FirstName - LastName - height - weight - NationalId - Gender
+
+1  - 30 - Mohsen - Shahani - 180 - 80 - 12345676890 - 1
+2  - 21 - asghar - ale - 170 - 70 - 1234567891	- 1
+
+
+
+نقش
+Id - RoleName - UserId
+
+1 - "teacher" - 1
+
+
+
+Table: Animal
+Name, age, Gender, Type {cat = 1, dog = 2, camel = 3}
+
